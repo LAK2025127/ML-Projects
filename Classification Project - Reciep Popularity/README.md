@@ -39,6 +39,11 @@ The dataset provides recipe-level nutritional and category information along wit
 - **EDA Findings:**  
   - Ingredients like **potatoes**, **vegetables**, and **pork** are strong traffic drivers.  
   - Recipes serving **4** people indicate popularity among **family-oriented users**.
+ 
+- ** Actionable Recommendation on Findngs:**
+  - Craft recipes with ingredients **strong traffic drivers** ingredients
+  - To target the **family-oriented users demographic**
+  
 - **Model Performance:**  
   | Model                  | Accuracy | Recall |
   |------------------------|----------|--------|
