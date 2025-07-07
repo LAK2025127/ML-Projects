@@ -7,7 +7,8 @@ This project helps a real estate firm accurately predict house sale prices. The 
 
 ## 📊 Dataset Details
 
-- **Datasets:**  
+- **Datasets:**
+  - 1 explordatory data analysis dataset
   - 1 training dataset  
   - 1 validation dataset
 - **Key cleaning steps:**  
