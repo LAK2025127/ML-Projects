@@ -64,6 +64,10 @@ The dataset provides recipe-level nutritional and category information along wit
 
 ---
 
+## Model Comparison
+![model_performance](https://github.com/user-attachments/assets/e11ee1ed-fc76-4b36-91cb-5862dd250eb4)
+
+
 ## 🗂️ Project Files
 📁 notebook_LAK_ML_classification_popular_recipe.ipynb
 📁 recipe_site_traffic_2212.csv
