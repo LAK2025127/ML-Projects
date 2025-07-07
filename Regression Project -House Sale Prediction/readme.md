@@ -43,3 +43,9 @@ Python, NumPy, pandas, scikit-learn, matplotlib, seaborn
 ## 💡 Key Insight
 
 - **Most impactful features:** `area`
+- Feature 'area' has **linear relation with target variable 'sale_price'** and stated by both Linear Regression and Decision Tree       Regressor as the most important features.
+- Decision Tree Regressor was chosen as per the model comaprsion where on the RMSE it performed better than Linear Regression.
+
+## Model Comparison
+![regression_model_comparisom](https://github.com/user-attachments/assets/97dce9bd-f479-4d38-81f7-7ada2f6dabec)
+
