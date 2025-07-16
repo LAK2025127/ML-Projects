@@ -39,10 +39,12 @@ The dataset provides recipe-level nutritional and category information along wit
 - **EDA Findings:**  
   - Ingredients like **potatoes**, **vegetables**, and **pork** are strong traffic drivers.  
   - Recipes serving **4** people indicate popularity among **family-oriented users**.
+  - From Decision Tree Classifier, nutrition facts hold significant importance.
  
 - ** Actionable Recommendation on Findngs:**
   - Craft recipes with ingredients **strong traffic drivers** ingredients
   - To target the **family-oriented users demographic**
+  - ** To further dive down into how nutrition facts related and act with target variable***
   
 - **Model Performance:**  
   | Model                  | Accuracy | Recall |
@@ -63,6 +65,10 @@ The dataset provides recipe-level nutritional and category information along wit
 - Learning curves to check model stability and generalization.
 
 ---
+
+## Model Comparison
+![model_performance](https://github.com/user-attachments/assets/e11ee1ed-fc76-4b36-91cb-5862dd250eb4)
+
 
 ## 🗂️ Project Files
 📁 notebook_LAK_ML_classification_popular_recipe.ipynb
