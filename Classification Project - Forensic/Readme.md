@@ -1,5 +1,7 @@
 ________________________________________
 # 🕵️‍♂️ Forensic Fraud Detection Prototype — Hybrid Rule-Based & ML Approach
+
+## This is Version 1 (Initial Experinment)
 ## 📌 Overview
 This project demonstrates a prototype forensic fraud detection system that simulates how forensic teams can combine rule-based flags with machine learning to identify fraudulent transactions — even when fraud patterns are simple or subtle.
 The project uses synthetic data designed to mimic real-world spending transactions with realistic fraud injection logic. It illustrates how traditional manual flags and automated ML classification can work together to catch fraud and minimize false positives.
